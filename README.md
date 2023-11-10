@@ -43,9 +43,9 @@ Install osTicket requirements onto the virtual machine through Remote Desktop ac
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z1pgP0G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install osTicket itself.
+Once you have completed the installation of all the necessary prerequisites, proceed with the successful installation of osTicket.
 </p>
 <br />
